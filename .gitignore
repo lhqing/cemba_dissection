@@ -1,3 +1,8 @@
+average_template_25.nrrd
+*.blend
+raw_stl/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -123,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+CEMBA_region_anno.csv
