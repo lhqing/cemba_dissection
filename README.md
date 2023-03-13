@@ -3,6 +3,7 @@
 This repository contains CEMBA dissction region segmentation based on Allen CCFv3 and its average template at 25 micron resolution. This repo provides content to [the CEMBA snmC-seq2 data browser](http://neomorph.salk.edu/omb)
 
 ## Allen CCFv3
+- See documentation about Allen CCFv3 from the AIBS: https://community.brain-map.org/t/allen-mouse-ccf-accessing-and-using-related-data-and-tools/359
 - To view the dissection segmentation, you need to first unzip the Allen CCFv3 files. All the files downloaded from Allen brain atlas from [here](http://download.alleninstitute.org/publications/allen_mouse_brain_common_coordinate_framework/transgenic_lines_25_um_grid/ccf/), and this paper: Wang, Quanxin, Song-Lin Ding, Yang Li, Josh Royall, David Feng, Phil Lesnar, Nile Graddis, et al. 2020. “The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.” Cell 181 (4): 936–53.e20.
 - Average template NRRD is the background of the segmentation
 - The annotation NRRD is the CCFv3 brain structure segmentation
